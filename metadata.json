@@ -1,1 +1,80 @@
-[]
+[
+    {
+        "id": "zwvktOTMwRajXseWJua_OJpk6bqpLZk2",
+        "plugin": "copilot",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "3.3.3",
+        "title": "Copilot",
+        "description": "Copilot Localization & Tweaks",
+        "hash": "52a1bec952a1bec952a1bec952a1bec9",
+        "created_at": "2026-06-13T16:51:31.549Z",
+        "updated_at": "2026-06-13T16:51:31.549Z"
+    },
+    {
+        "id": "7KY5UQh7TPtH8n3JaXe08-3y_6OEFkzP",
+        "plugin": "dataview",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "0.5.68",
+        "title": "Dataview",
+        "description": "Dataview Localization & Tweaks",
+        "hash": "78ccfd8978ccfd8978ccfd8978ccfd89",
+        "created_at": "2026-06-13T16:51:31.550Z",
+        "updated_at": "2026-06-13T16:51:31.550Z"
+    },
+    {
+        "id": "1xU8cUQfdqR9D5XVH1PhGAhB28hCi_QB",
+        "plugin": "obsidian42-brat",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.1",
+        "supported_versions": "2.0.3",
+        "title": "[zh-cn] BRAT",
+        "description": "BRAT Localization & Tweaks",
+        "hash": "2532d1fb2532d1fb2532d1fb2532d1fb",
+        "created_at": "2026-06-13T16:51:31.546Z",
+        "updated_at": "2026-06-13T16:51:31.546Z"
+    },
+    {
+        "id": "Zu-ORGeaFrujIu9ZdawM4z96_qgogR5N",
+        "plugin": "obsidian-git",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "2.38.3",
+        "title": "Git zh-cn",
+        "description": "Git Localization & Tweaks",
+        "hash": "014d26bc014d26bc014d26bc014d26bc",
+        "created_at": "2026-06-13T16:51:31.550Z",
+        "updated_at": "2026-06-13T16:51:31.550Z"
+    },
+    {
+        "id": "kaS82N-uMzuLw6UMuxEjTy4opkhCV5TN",
+        "plugin": "obsidian-icon-folder",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "2.14.7",
+        "title": "Iconize",
+        "description": "在黑曜石中为任何你想要的东西添加图标，包括文件、文件夹和文本。",
+        "hash": "5873f34f5873f34f5873f34f5873f34f",
+        "created_at": "2026-06-13T16:51:31.547Z",
+        "updated_at": "2026-06-13T16:51:31.547Z"
+    },
+    {
+        "id": "syBLmoNsAEk5GKc62vqS2pzHb96cw6te",
+        "plugin": "table-editor-obsidian",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "0.22.1",
+        "title": "Advanced Tables",
+        "description": "Improved table navigation, formatting, manipulation, and formulas",
+        "hash": "60a7d53060a7d53060a7d53060a7d530",
+        "created_at": "2026-06-13T16:51:31.550Z",
+        "updated_at": "2026-06-13T16:51:31.550Z"
+    }
+]
